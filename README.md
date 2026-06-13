@@ -15,10 +15,11 @@ Meet me, Sanket Naik. I am an MBA student specializing in Finance and Human Reso
 
 **Talking about Personal Stuffs:**
 
-* 🎓 I'm currently pursuing an MBA specializing in Finance and Human Resources;
-* 📊 I'm passionate about Data Analytics, Business Intelligence, and Financial Analysis;
-* 🚀 I'm continuously learning Power BI, SQL, Excel, and AI technologies;
-* 📫 How to reach me: [www.linkedin.com/in/sanket-naik-3650551b4](http://www.linkedin.com/in/sanket-naik-3650551b4)
+* 🎓  Pursuing an MBA specializing in Finance and Human Resources;
+* 📊 Passionate about Data Analytics, Business Intelligence, and Financial Analysis;
+* 📈 Building dashboards and transforming data into actionable business insights;
+* 🚀Continuously upskilling through Microsoft, Azure AI, and industry certification programs;
+* 📬Connect with me: [www.linkedin.com/in/sanket-naik-3650551b4](http://www.linkedin.com/in/sanket-naik-3650551b4)
 
 
 </br>
