@@ -1,5 +1,5 @@
 # About_Me
-Hi there, I'm Sanketnaik! 🚀
+All about me
 
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Sanketnaik-467</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
