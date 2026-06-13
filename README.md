@@ -8,7 +8,7 @@ Hi there, I'm Sanketnaik! 🚀
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Sanket Naik. I am an MBA student specializing in Finance and Human Resources, with a strong interest in Data Analytics, Business Intelligence, and Artificial Intelligence. I enjoy working on data-driven projects, building interactive dashboards, and transforming business data into actionable insights. Currently, I am enhancing my skills in Power BI, SQL, Excel, and AI technologies while pursuing my goal of building a career at the intersection of business and technology.
+Hello, I'm Sanket Naik, an MBA student specializing in Finance and Human Resources with a keen interest in Data Analytics, Business Intelligence, and Artificial Intelligence. I am passionate about transforming data into meaningful insights and developing data-driven solutions to address business challenges. Currently, I am strengthening my skills in Power BI, SQL, Excel, and AI technologies while pursuing opportunities in business analytics, finance, and emerging technologies.
 
 <img align="right" alt="GIF" src="https://github.com/Sanketnaik-467/Sanketnaik-467/blob/dc7e2b12a989905405d6a91cc47ab72a35edcec2/Sanket.JPG.jpeg" width="400" height="225" />
   
