@@ -19,7 +19,8 @@ Hello, I'm Sanket Naik, an MBA student specializing in Finance and Human Resourc
 * 📊 Passionate about Data Analytics, Business Intelligence, and Financial Analysis;
 * 📈 Building dashboards and transforming data into actionable business insights;
 * 🚀Continuously upskilling through Microsoft, Azure AI, and industry certification programs;
-* 📬Connect with me: [www.linkedin.com/in/sanket-naik-3650551b4](http://www.linkedin.com/in/sanket-naik-3650551b4)
+* 📬Connect with me: naiksanket467@gmail.com
+
 
 
 </br>
