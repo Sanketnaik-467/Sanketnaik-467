@@ -10,7 +10,7 @@ Hi there, I'm Sanketnaik! 🚀
 
 Meet me, Sanket Naik. I am an MBA student specializing in Finance and Human Resources, with a strong interest in Data Analytics, Business Intelligence, and Artificial Intelligence. I enjoy working on data-driven projects, building interactive dashboards, and transforming business data into actionable insights. Currently, I am enhancing my skills in Power BI, SQL, Excel, and AI technologies while pursuing my goal of building a career at the intersection of business and technology.
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/Sanketnaik-467/Sanketnaik-467/blob/dc7e2b12a989905405d6a91cc47ab72a35edcec2/Sanket.JPG.jpeg" width="400" height="225" />
   
 
 **Talking about Personal Stuffs:**
